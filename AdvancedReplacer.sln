@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedReplacer", "AdvancedReplacer\AdvancedReplacer.csproj", "{B2B16F69-C39C-46FE-BA0D-879831FEDA1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2B16F69-C39C-46FE-BA0D-879831FEDA1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2B16F69-C39C-46FE-BA0D-879831FEDA1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2B16F69-C39C-46FE-BA0D-879831FEDA1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2B16F69-C39C-46FE-BA0D-879831FEDA1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {487BDE78-7894-4911-BEDE-3893EA12319E}
+	EndGlobalSection
+EndGlobal
